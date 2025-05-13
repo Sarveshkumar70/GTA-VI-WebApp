@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@font-face {
+    font-family: "pricedown";
+    src: url("assets/fonts/pricedown.otf");
+}n
+
+html,body{
+    width: 100%;
+    height: 100%;
+    font-family: "pricedown";
+}

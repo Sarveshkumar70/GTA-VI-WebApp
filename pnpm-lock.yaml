@@ -23,6 +23,9 @@ importers:
       react-dom:
         specifier: ^19.1.0
         version: 19.1.0(react@19.1.0)
+      remixicon:
+        specifier: ^4.6.0
+        version: 4.6.0
       tailwindcss:
         specifier: ^4.1.6
         version: 4.1.6
@@ -1258,6 +1261,9 @@ packages:
   react@19.1.0:
     resolution: {integrity: sha512-FS+XFBNvn3GTAWq26joslQgWNoFu08F4kl0J4CgdNKADkdSGXQyTCnKteIAJy96Br6YbpEU1LSzV5dYtjMkMDg==}
     engines: {node: '>=0.10.0'}
+
+  remixicon@4.6.0:
+    resolution: {integrity: sha512-bKM5odjqE1yzVxEZGJE7F79WHhNrJFIKHXR+GG+P1IWXn8AnJZhl8SbIRDJsNAvIqx4VPkNwjuHfc42tutMDpQ==}
 
   resolve-from@4.0.0:
     resolution: {integrity: sha512-pb/MYmXstAkysRFx8piNI1tGFNQIFA3vkE3Gq4EuA1dF6gHp/+vgZqsCGJapvy8N3Q+4o7FwvquPJcnZ7RYy4g==}
@@ -2544,6 +2550,8 @@ snapshots:
   react-refresh@0.17.0: {}
 
   react@19.1.0: {}
+
+  remixicon@4.6.0: {}
 
   resolve-from@4.0.0: {}
 
